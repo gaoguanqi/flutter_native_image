@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.mobileraker'
+    namespace 'com.example.flutternativeimage'
     compileSdk 34
     buildToolsVersion '34.0.0'
 
